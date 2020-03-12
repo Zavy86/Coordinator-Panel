@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-->
+ ! Panel - Default localization
+ !
+ ! @package Coordinator\Modules\Panel
+ ! @author  Manuel Zavatta <manuel.zavatta@gmail.com>
+ ! @link    http://www.coordinator.it
+<!-->
+<locale>
+
+ <!-- module -->
+ <text key="panel">Pannello di Controllo</text>
+ <text key="panel-description">Pannello di Controllo</text>
+
+ <!-- authorizations -->
+ <text key="panel-manage">Gestione</text>
+ <text key="panel-manage-description">Gestione modulo archivio</text>
+ <text key="panel-usage">Abilitazione</text>
+ <text key="panel-usage-description">Utilizzo del modulo archivio</text>
+
+</locale>
